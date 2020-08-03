@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormVaidation</string>
+    <string name="invalid_nic">Please enter Valid NIC</string>
+    <string name="invalid_name">Please Enter Valid Name</string>
+    <string name="invalid_Mobile">Please Enter Valid Mobile</string>
+    <string name="invalid_Email">Please enter valid Email</string>
+    <string name="invalid_Accountno">Please Enter Valid Account No</string>
+    <string name="invalid_address">Please Enter valid  Address</string>
+</resources>
